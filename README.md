@@ -51,3 +51,9 @@
 
 
 ## OUTPUT:
+![Annual Inter COLLEGE Cricket Cup](https://github.com/user-attachments/assets/ad6309d7-f216-4aed-b03a-73c623d0177a)
+
+## RESULT:
+Thus, to edit an image using an image editing software has been implemented and verified successfully.
+
+
